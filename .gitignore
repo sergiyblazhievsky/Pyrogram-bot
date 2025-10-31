@@ -36,6 +36,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Installer files
+vs_buildtools.exe
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
