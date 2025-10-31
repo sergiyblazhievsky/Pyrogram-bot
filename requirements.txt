@@ -1,7 +1,7 @@
 # Core dependencies
 pyrogram>=2.0.0
-tgcrypto>=1.2.0
 
-# Optional dependencies
+# Optional dependencies (for better performance)
+# tgcrypto>=1.2.0  # Requires Microsoft C++ Build Tools on Windows
 # python-dotenv>=1.0.0  # For environment variable management
 
