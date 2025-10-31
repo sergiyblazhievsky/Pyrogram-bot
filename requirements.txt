@@ -1,0 +1,7 @@
+# Core dependencies
+pyrogram>=2.0.0
+tgcrypto>=1.2.0
+
+# Optional dependencies
+# python-dotenv>=1.0.0  # For environment variable management
+
